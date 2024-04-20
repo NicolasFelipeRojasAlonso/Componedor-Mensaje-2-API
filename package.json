@@ -1,0 +1,15 @@
+{
+  "name": "tarea8",
+  "version": "1.0.0",
+  "description": "PrPequeno programa que realice 2 llamadas independientes a 2 endpoint de una API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Rojas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "chalk": "^2.4.2"
+  }
+}
